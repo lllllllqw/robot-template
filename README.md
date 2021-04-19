@@ -7,6 +7,8 @@ Template for [Create WeCom Robot App](https://github.com/lllllllqw/create-wecom-
 
 ```bash
 $ npx create-wecom-robot-app my-robot
+$ cd my-robot
+$ cp config/.example.env config/.development.env
 ```
 
 ## Running the app
